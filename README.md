@@ -5,10 +5,11 @@
 <h2 align="center"># NICO-SERVER</h2>
 
 ### Sedikit Tentang server
-- âœ”ï¸ | **Simple-SERVER** 
-- âœ”ï¸ | **FREE** 
-- âœ”ï¸ | **OPEN-SOURCE**
-- âœ”ï¸ | **Ubuntu-server**
-- âœ”ï¸ | **HOSTING**
-- âœ”ï¸ | **PANEL**
+- ☑️ | **Simple-SERVER** 
+- ☑️ | **FREE** 
+- ☑️ | **OPEN-SOURCE**
+- ☑️ | **Ubuntu-server**
+- ☑️ | **HOSTING**
+- ☑️ | **PANEL**
+- 🦾Thanks For Using My server
 -----------
