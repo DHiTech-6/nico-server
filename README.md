@@ -13,12 +13,12 @@
 - ☑️ | **PANEL**
 - 🦾Thanks For Using My server
 -----------
-### ABOUT
-- Developer: Dhitech
-- Owner : Prastya Ardhi R
-- class : XI
-- Web : dhii.tech
-- ssh : ctt.dhii.tech
-- Instagram : @prss.tyaaa
+### ABOUT‼️‼️
+- **Developer:** Dhitech 🦊
+- **Owner :** Prastya Ardhi R🦾
+- **class :** XI🛐
+- **Web :** dhii.tech
+- **ssh :** ctt.dhii.tech
+- **Instagram :** @prss.tyaaa
 
 
