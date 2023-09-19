@@ -13,3 +13,8 @@
 - ☑️ | **PANEL**
 - 🦾Thanks For Using My server
 -----------
+Developer: Dhitech
+Owner : Prastya Ardhi R
+class : XI
+-----------
+
